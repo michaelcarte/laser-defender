@@ -21,8 +21,6 @@ public class Player : MonoBehaviour
         SetUpMoveBoundaries();
     }
 
-    
-
     // Update is called once per frame
     void Update()
     {
